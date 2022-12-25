@@ -84,7 +84,7 @@ ursa rpc get bafybeifyjj2bjhtxmp235vlfeeiy7sz6rzyx3lervfk3ap2nyn4rggqgei ./outpu
 ls -hl ./output
 ```
 
-[image](https://user-images.githubusercontent.com/101149671/209468216-0aa9927c-c28f-4f0d-9423-2cde745a4f63.png)
+[image](https://user-images.githubusercontent.com/101149671/209468216-0aa9927c-c28f-4f0d-9423-2cde745a4f63.png)[image]
 
 # Kurulum bu kadar.
 

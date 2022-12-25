@@ -8,7 +8,7 @@
 4 RAM
 ```
 
-## Kuruluma geçelim ; 
+# Kuruluma geçelim ; 
 
 ```
 sudo su
@@ -26,7 +26,7 @@ sudo apt install make clang pkg-config libssl-dev cmake
 sudo apt install curl build-essential gcc make
 ```
 
-## rustup'u kuruyoruz:
+# rustup'u kuruyoruz:
 ```
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
@@ -42,7 +42,7 @@ cargo install sccache
 sudo apt-get install protobuf-compiler
 ```
 
-## `fleek-network/ursa.git` 'i klonluyoruz.
+# fleek-network/ursa.git` 'i klonluyoruz.
 
 * `make install` kurulum uzun sürer.
 * daha sonra version kontrol ediyoruz: `ursa --version`
@@ -57,7 +57,7 @@ cd ursa
 make install
 ```
 
-## ursa adlı bir screen oluşturup node çalıştırıyoruz:
+# ursa adlı bir screen oluşturup node çalıştırıyoruz:
 
 * Loglar akması gerekiyor.
 * Loglar aktıktan sonra CTRL + A + D ile çıkıyoruz.
@@ -70,7 +70,7 @@ cd $HOME
 cd ursa 
 ursa
 ```
-## altta ki dosyayı indirelim ve kontrol edelim:
+# altta ki dosyayı indirelim ve kontrol edelim:
 ```
 curl https://ipfs.io/ipfs/bafybeidqdywrzg7c3b4dmm332m4b7uiakgitplz2pep2zntederxpj3odi -o basic.car
 ```
@@ -86,7 +86,7 @@ ls -hl ./output
 
 ![image](https://user-images.githubusercontent.com/101149671/209468216-0aa9927c-c28f-4f0d-9423-2cde745a4f63.png)
 
-## Kurulum bu kadar.
+# Kurulum bu kadar.
 
 
 
